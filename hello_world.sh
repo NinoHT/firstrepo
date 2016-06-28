@@ -1,3 +1,4 @@
 #!/bin/bash
+name=$1
 echo "hello world!"
-echo "Nino is amazing!"
+echo “${name} you’re amazing!"
